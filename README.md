@@ -24,7 +24,7 @@
 
 Formateur professionnel d'adultes et ingénieur pédagogique basé à Montpellier, je conçois et déploie des **parcours de formation certifiants et qualifiants** pour le secteur tertiaire — comptabilité, paie, RH, gestion, outils numériques et transformation digitale.
 
-Parallèlement, je développe des **applications web pédagogiques sur mesure** (LMS, ERP fictifs, cours interactifs IA, plateformes de suivi) qui servent de terrains d'apprentissage réels pour mes apprenants.
+Parallèlement, je développe des **applications web pédagogiques sur mesure** (LMS, ERP, CRM, cours interactifs, IA, plateformes de suivi) qui servent de terrains d'apprentissage réels pour mes apprenants.
 
 > *« Former avec méthode · Concevoir avec intention · Créer avec précision »*
 
